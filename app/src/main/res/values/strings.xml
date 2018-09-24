@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recipe Creator</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="click_continue">Continue</string>
+    <string name="recipes">Recipes</string>
+    <string name="ingredienst">Ingredienst</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="todo">TODO</string>
+    <string name="click_ingredients">Ingredients</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="add_the_ingredient">Add Ingredient</string>
+    <string name="delete_the_ingredient">Delete ingredient</string>
+    <string name="edit_the_ingredient">Edit ingredient</string>
+    <string name="Back">Back</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="add_the_recipe">Add Recipe</string>
+    <string name="edit_the_recipe">Edit Recipe</string>
+    <string name="delete_the_recipe">Delete recipe</string>
+</resources>
